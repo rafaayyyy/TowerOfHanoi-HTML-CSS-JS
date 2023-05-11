@@ -11,7 +11,7 @@ The game includes the following features:
     If the player runs out of time, the game is stopped.
 
 -   **Change the number of plates:** This allows the player to adjust
-    the number of discs used in the puzzle. The range is from 0 to 9.
+    the number of discs used in the puzzle. The range is from 3 to 9.
 
 -   **Undo/Redo:** This allows the player to undo or redo all their
     moves since the start.
