@@ -19,4 +19,4 @@ The game includes the following features:
 -   **Constraint:** A large plate cannot be moved onto a smaller plate.
 
 This project is implemented using HTML, CSS, and JavaScript, and
-provides a basic understanding of web development using its techniques.
+provides a basic understanding of web development and its concepts.
